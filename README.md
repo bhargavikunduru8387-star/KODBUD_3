@@ -1,0 +1,1 @@
+A Contact Book Program is a simple application used to store, manage, search, update, and delete contact information efficiently. It helps users organize names, phone numbers, email addresses, and other details in one convenient place.
